@@ -10,10 +10,20 @@ status InitBiTree(Node* t) {
 }
 
 //带有空节点的前序遍历
-status CreateBiTree(Node* t, char definition[]) {
-	int len = sizeof(definition) / sizeof(definition[0]);
-
-
+status CreateBiTree(Node* t) {
+	printf("please enter your BiTree by char!\n");
+	char ch;
+	scanf("%c", ch);
+	if (ch == '#') {
+		*t == NULL;
+		return OK;
+	}
+	else {
+		*t = malloc(sizeof(Node));
+		(*t)->name[0] = ch;
+		CreateBiTree(&((*t)->lchild));
+		CreateBiTree(&((*t)->rchild));
+	}
 }
 
 
