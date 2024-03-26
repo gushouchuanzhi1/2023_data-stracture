@@ -26,5 +26,6 @@ status CreateBiTree(Node* t) {
 	}
 }
 
+status DestroyBiTree
 
 

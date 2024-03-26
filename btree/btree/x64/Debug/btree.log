@@ -1,0 +1,46 @@
+﻿  main.c
+G:\desktop\2023_data-stracture\btree\def.h(18,2): error C2061: 语法错误: 标识符“Node”
+  (编译源文件“main.c”)
+  
+G:\desktop\2023_data-stracture\btree\def.h(21,6): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“main.c”)
+  
+G:\desktop\2023_data-stracture\btree\def.h(22,1): error C2059: 语法错误:“}”
+  (编译源文件“main.c”)
+  
+G:\desktop\2023_data-stracture\btree\def.h(25,2): error C2061: 语法错误: 标识符“Node”
+  (编译源文件“main.c”)
+  
+G:\desktop\2023_data-stracture\btree\def.h(27,1): error C2059: 语法错误:“}”
+  (编译源文件“main.c”)
+  
+G:\desktop\2023_data-stracture\btree\def.h(30,2): error C2061: 语法错误: 标识符“Tree”
+  (编译源文件“main.c”)
+  
+G:\desktop\2023_data-stracture\btree\def.h(33,1): error C2059: 语法错误:“}”
+  (编译源文件“main.c”)
+  
+G:\desktop\2023_data-stracture\btree\func.h(4,23): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“main.c”)
+  
+G:\desktop\2023_data-stracture\btree\func.h(4,23): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“main.c”)
+  
+G:\desktop\2023_data-stracture\btree\func.h(4,26): error C2059: 语法错误:“)”
+  (编译源文件“main.c”)
+  
+G:\desktop\2023_data-stracture\btree\func.h(4,28): error C2054: 在“t”之后应输入“(”
+  (编译源文件“main.c”)
+  
+G:\desktop\2023_data-stracture\btree\func.h(13,25): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“main.c”)
+  
+G:\desktop\2023_data-stracture\btree\func.h(13,25): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“main.c”)
+  
+G:\desktop\2023_data-stracture\btree\func.h(13,28): error C2059: 语法错误:“)”
+  (编译源文件“main.c”)
+  
+G:\desktop\2023_data-stracture\btree\func.h(13,30): error C2054: 在“t”之后应输入“(”
+  (编译源文件“main.c”)
+  
